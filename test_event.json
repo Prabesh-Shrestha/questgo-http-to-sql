@@ -1,0 +1,11 @@
+{
+  "event_id": "2-1234abcd-1",
+  "device_id": 2,
+  "peer_id": 1,
+  "event_type": "test",
+  "state": "near",
+  "rssi_dbm": -49,
+  "boot_id": 305441741,
+  "sequence": 1,
+  "uptime_ms": 1000
+}
